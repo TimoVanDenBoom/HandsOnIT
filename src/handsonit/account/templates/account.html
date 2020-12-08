@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}
+<h1>{{user.username}}</h1>
+{% endblock %}
+
+{% block content %}
+<div class="container account">
+{% if business is not None %}
+<p>Business name: {{business.business_name}}</p>
+
+{% elif freelancer is not None %}
+<p>First name: {{freelancer.first_name}}</p>
+<p>Last name: {{freelancer.last_name}}</p>
+<p>Country: {{freelancer.country}}</p>
+<p>State: {{freelancer.state}}</p>
+{% endif %}
+</div>
+{% endblock %}

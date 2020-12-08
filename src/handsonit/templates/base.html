@@ -1,0 +1,46 @@
+<!doctype html>
+{% load bootstrap4 %}
+{% bootstrap_css %}
+{% bootstrap_javascript jquery='full' %}
+{% load static %}
+<html>
+	
+	<head>
+		<title>HandsOnIT - International onsite IT work</title>
+		<link rel="stylesheet" href="{% static 'css/stylesheet.css' %}" />
+		<link rel="shortcut icon" type="image/png" href="{% static 'media/favicon_invert.jpg' %}" />
+	</head>
+
+	<header> 
+			<a href="/" class="header-navigation-logo" data-country-root="nl"></a>
+				<input type="checkbox" id="nav-toggle" class="nav-toggle">
+  					<nav class="navbar-right">
+    					<ul>
+    						{% if user.is_authenticated %}
+      						<li><a href="#">Freelancer</a></li>
+      						<li><a href="#">Business</a></li>
+      						<li><a href="#">Contact</a></li>
+      						<li><a href="/logout">Logout</a></li>
+      						{% else %}
+      						<li><a href="/freelancer">Freelancer</a></li>
+      						<li><a href="/business">Business</a></li>
+      						<li><a href="#">Contact</a></li>
+      						<li><a href="/login">Login</a></li>
+      						{% endif %}
+    					</ul>
+  					</nav>
+  				<label for="nav-toggle" class="nav-toggle-label">
+    				<span></span>
+  				</label>
+	</header>
+
+	<body>
+
+	
+	<div class="content">
+		{% block content %}
+
+		{% endblock %}
+	</div>
+	</body>
+</html>

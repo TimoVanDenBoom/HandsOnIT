@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flex",
+				"inline-flex\tdisplay"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"backgrou",
+				"background-size\tproperty"
+			],
+			[
+				"is",
+				"is_active"
+			],
+			[
+				"conf",
+				"confirmationmail"
+			],
+			[
+				"url",
+				"urlsafe_base64_decode"
+			],
+			[
+				"urlsafe",
+				"urlsafe_base64_encode"
+			],
+			[
+				"signup",
+				"signupbusiness"
+			],
+			[
+				"binfo",
+				"binfo_view"
+			],
+			[
+				"border",
+				"border-box"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "static/css/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 4510,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "account/templates/account.html",
+			"settings":
+			{
+				"buffer_size": 449,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "handsonit/settings.py",
+			"settings":
+			{
+				"buffer_size": 3756,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Timo/Dev/handsonit",
+		"/C/Users/Timo/Dev/handsonit/src",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/account",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/account/templates",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/handsonit",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/pages",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/confirmationmail",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/registration",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/signup",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/static",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/static/css",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/static/media",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/staticfiles",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/staticfiles/admin",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/staticfiles/css",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/templates"
+	],
+	"file_history":
+	[
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-branch.html",
+		"/C/Program Files/Unity/Hub/Editor/2019.4.0f1/Editor/Data/Documentation/en/ScriptReference/MonoBehaviour.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/views.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/templates/flinfo.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/templates/binfo.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/registration/login.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/account/views.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/models.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/forms.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/handsonit/urls.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/templates/base.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/pages/views.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/signup/signup.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/signup/user_created.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/templates/home.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/css/stylesheet.css",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/handsonit/settings.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/account/account.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/pages/admin.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/confirmationmail/account_activated.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/confirmationmail/token_used.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/confirmationmail/activate_failed.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/utils.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/confirmationmail/user_created.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/templates/confirmationmail/confirmationmail.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/.env",
+		"/C/Users/Timo/Dev/handsonit/src/.env",
+		"/C/Users/Timo/Dev/handsonit/.gitignore",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/handsonit/.gitignore",
+		"/C/Users/Timo/Dev/handsonit_old/src/handsonit/urls.py",
+		"/C/Users/Timo/Dev/handsonit_old/src/handsonit/settings.py",
+		"/C/Users/Timo/Desktop/Nieuwe map/register/apps.py",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/register/apps.py",
+		"/C/Users/Timo/Desktop/Nieuwe map/register/admin.py",
+		"/C/Users/Timo/Desktop/Nieuwe map/register/forms.py",
+		"/C/Users/Timo/Desktop/Nieuwe map/register/models.py",
+		"/C/Users/Timo/Desktop/Nieuwe map/register/views.py",
+		"/C/Users/Timo/Desktop/Nieuwe map/pages/views.py",
+		"/C/Users/Timo/Desktop/Nieuwe map/pages/admin.py",
+		"/C/Users/Timo/Desktop/Nieuwe map/pages/models.py",
+		"/C/Users/Timo/Dev/handsonit/src/register/forms.py",
+		"/C/Users/Timo/Dev/handsonit/src/db.sqlite3",
+		"/C/Users/Timo/Dev/handsonit/src/Templates/base.html",
+		"/C/Users/Timo/Dev/handsonit/src/pages/static/css/stylesheet.css",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/urls.py",
+		"/C/Users/Timo/Dev/handsonit/src/register/templates/register/signupbusiness.html",
+		"/C/Users/Timo/Dev/handsonit/src/handsonit/settings.py",
+		"/C/Users/Timo/Dev/handsonit/src/Templates/flinfo.html",
+		"/C/Users/Timo/Dev/handsonit/src/Templates/stylesheet.css",
+		"/C/Users/Timo/Dev/handsonit/src/pages/models.py",
+		"/D/Games/Shadow of Mordor/Middle-earth Shadow of Mordor/x64/visit-www.nosteam.ro.html",
+		"/C/Users/Timo/Dev/handsonit/handsonit.sublime-project",
+		"/D/Games/SteamLibrary/SteamApps/common/RuneSage/2017-09-28_154840/output_log.txt",
+		"/D/eula.1028.txt",
+		"/C/Users/Timo/Desktop/Wiskunde/`Dennis opdracht.txt",
+		"/C/Users/Timo/Desktop/AI GAMES MUSIC.txt",
+		"/C/Users/Timo/Desktop/Unity.txt",
+		"/C/Users/Timo/Desktop/Notebooks/tutorials/data/README.txt",
+		"/C/Users/Timo/Desktop/Script.bat",
+		"/C/Users/Timo/Desktop/gedichtgideon.txt",
+		"/C/Users/Timo/AppData/Local/Temp/Rar$DIa0.651/README.txt",
+		"/C/Users/Timo/Desktop/Nieuw tekstdocument.txt",
+		"/C/ProgramData/Unity/emmes.txt",
+		"/D/Downloads/Games/Mind.Path.to.Thalamus.Enhanced.Edition-SKIDROW/RARBG.com.txt",
+		"/C/Users/Timo/Documents/portfolio/toplist/index.html",
+		"/C/Users/Timo/Documents/portfolio/toplist/css/main.css",
+		"/D/Downloads/Programma's/VSTs/NI Guitar Rig 5.2.2/R2R/R2R.txt",
+		"/C/Users/Timo/Documents/portfolio/toplist/css/style.css",
+		"/C/Users/Timo/Documents/portfolio/toplist/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\Users\\Timo\\Dev\\handsonit\\src\\handsonit\\static",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"left",
+			"2px",
+			"none",
+			"\");",
+			"stylesheet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "static/css/stylesheet.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "account/templates/account.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "handsonit/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3457,
+								3457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1669.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "handsonit.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
